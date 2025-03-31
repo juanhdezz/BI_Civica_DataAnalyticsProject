@@ -1,6 +1,6 @@
 # 🚀 **Análisis de Datos de Accidentes de Tráfico**  
 
-![Power BI Dashboard](images/portada.png)  
+![Power BI Dashboard](portada.png)  
 
 ## 📌 **Descripción del Proyecto**  
 Este proyecto es un análisis exhaustivo de accidentes de tráfico utilizando **Power BI**. Su objetivo es extraer información valiosa de una base de datos de accidentes y proporcionar insights clave que permitan mejorar la seguridad vial mediante la toma de decisiones informadas.  
@@ -28,7 +28,7 @@ Este proyecto es un análisis exhaustivo de accidentes de tráfico utilizando **
 ## 🛠️ **Configuración y Uso**  
 1️⃣ **Clona este repositorio:**  
    ```bash  
-   git clone https://github.com/juanhdezz/tu-repositorio.git  
+   git clone https://github.com/juanhdezz/BI_Civica_DataAnalyticsProject.git  
    ```  
 2️⃣ **Importa el archivo .pbix en Power BI.**  
 3️⃣ **Explora los dashboards y ajusta los filtros según tus necesidades.**  
@@ -36,7 +36,7 @@ Este proyecto es un análisis exhaustivo de accidentes de tráfico utilizando **
 5️⃣ **Comparte tu enfoque:** Explica en qué se diferencia tu modelo del original y qué nuevos insights permite extraer.  
 
 ## 📌 **Capturas de Pantalla**  
-![Dashboard Ejemplo](images/dashboard4.png)  
+![Dashboard Ejemplo](dashboard4.png)  
 
 ## 🤝 **Contribuciones**  
 💡 **¡Desafío de Modelado y Visualización!**  
